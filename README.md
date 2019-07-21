@@ -9,4 +9,6 @@ Die Spielregeln findet ihr in der Spielregeln.pdf
 
 Die Druckbögen für die Karten in Karten.pdf
 
+Einfach beides ausdrucken und los gehts. 
+
 <br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Trick'n Threat</span> von <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">K. Bochmann, N. Fabrizius und I. Gorenbuch</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
